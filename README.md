@@ -1,7 +1,7 @@
 ### Hi there, I'm Linkin 👋
 - I'm new in code 👶
 - I'm working as a student 🖊
-- I like <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a> (Cờ Vây, Baduk, Weiqi, Igo)
+- I like <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a> (Cờ Vây, Baduk, Weiqi, Igo) ☜(ﾟヮﾟ☜)
 - I like Rock 🤘 and Metal 🤘 too 🎸🎸🎸
 
 ## Contact me
